@@ -1,2 +1,2 @@
-# hello-world
-A basic repository for CS 3377 that teaches how to create and utilize a GitHub Repository
+# A little about me
+My name is Ryan Joseph, and I am a sophmore student here at UTD
